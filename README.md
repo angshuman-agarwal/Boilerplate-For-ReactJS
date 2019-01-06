@@ -8,5 +8,4 @@ Bootstrap a minimal ReactJS project without using create-react-app
   - npm run build
   - npm start
 
-That should spawn a browser served by lite-server on localhost and show Webpage rendered using ReactJS. 
-This is the minimal scaffolding required to bootstrap a modern ReactJS based project using webpack.
+That should spawn a browser served by [lite-server](https://github.com/johnpapa/lite-server) on localhost and show Webpage rendered using ReactJS. This is the minimal scaffolding required to bootstrap a modern ReactJS based project using webpack.
