@@ -1,6 +1,7 @@
 # BootstrapReactJS
 Bootstrap a minimal ReactJS project without using create-react-app
 
+- Install [node](https://nodejs.org/en/download/) 
 - git clone https://github.com/angshuman-agarwal/BootstrapReactJS.git 
 - On your your local machine, cd into BootstrapReactJS folder
 - Spawn your favourite command line tool at this location & execute the following:
